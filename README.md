@@ -1,2 +1,2 @@
 # Event-knowledge-map
-事件知识图谱开源项目
+基于python开发的事件知识图谱开源项目
